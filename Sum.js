@@ -1,3 +1,3 @@
 const a = "Hello Sum"
 
-console.log(a)
+console.log(`${a} and b`)
